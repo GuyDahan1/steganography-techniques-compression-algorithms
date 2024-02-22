@@ -57,18 +57,6 @@ To decode a message from an image:
 Decode('dest_image.png')
 ```
 
-To process an image using DCT:
-
-```python
-# Assumes image path is provided by the user
-```
-
-To encrypt and decrypt an image:
-
-```python
-# Convert image to data, then encrypt or decrypt
-```
-
 
 ## Contributors
 
